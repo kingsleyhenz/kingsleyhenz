@@ -4,7 +4,6 @@
 
 ## About Me :
 
-<!-- - 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/) -->
 - 😁 Ready to learn from any and everyone
 - ⚡ **Fun Facts** : 🍕 ⚽ 🏀 🎥
 
