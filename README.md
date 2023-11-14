@@ -5,8 +5,6 @@
 ## About Me :
 
 <!-- - 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/) -->
-- 📖 Currently a student at Aptech Computer Education
-- 💻 Been on this for over a year now
 - 😁 Ready to learn from any and everyone
 - ⚡ **Fun Facts** : 🍕 ⚽ 🏀 🎥
 
